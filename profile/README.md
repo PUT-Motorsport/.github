@@ -6,6 +6,7 @@ numerous successes in international competitions. Currently we are working on ou
 
 ### Articles:
 Low Voltage BMS: https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf
+
 PCB stack-up motherboard: https://github.com/PUT-Motorsport/PUTM_EV_FRONT_BOX_2022/blob/main/FRONT_BOX-2022-Article.pdf
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
