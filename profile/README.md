@@ -11,7 +11,7 @@ numerous successes in international competitions. Currently we are working on ou
 
 [Brake light](https://github.com/PUT-Motorsport/.github/blob/main/brake-light-article.pdf)
 
-[Inverter DC-link capacitors](https://github.com/iwajski/Test-PUTM-picture-hosting/files/8459709/Inverter.dc.link.capacitors.pdf)
+[Inverter DC-link capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Article-Inverter%20dc%20link%20capacitors.pdf)
 
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
