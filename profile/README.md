@@ -5,11 +5,13 @@ numerous successes in international competitions. Currently we are working on ou
 ### In our repositories you can find all of electronic and software projects done in the electric era
 
 ### Articles:
-Low Voltage BMS: https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf
+[Low Voltage BMS](https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf)
 
-PCB stack-up motherboard: https://github.com/PUT-Motorsport/PUTM_EV_FRONT_BOX_2022/blob/main/FRONT_BOX-2022-Article.pdf
+[PCB stack-up motherboard](https://github.com/PUT-Motorsport/PUTM_EV_FRONT_BOX_2022/blob/main/FRONT_BOX-2022-Article.pdf)
 
-Brake light: https://github.com/PUT-Motorsport/.github/blob/main/brake-light-article.pdf
+[Brake light](https://github.com/PUT-Motorsport/.github/blob/main/brake-light-article.pdf)
+
+[Inverter DC-link capacitors](https://github.com/iwajski/Test-PUTM-picture-hosting/files/8459709/Inverter.dc.link.capacitors.pdf)
 
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
