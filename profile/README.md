@@ -2,9 +2,9 @@
 We are a Formula Student-class racing team based at Poznan University of Technology. 
 The Team was founded in 2014. Since the beginning of our activity, we have constructed 7 cars(five combustion and two electric ones), that have achieved
 numerous successes in international competitions. Currently we are working on our third electric vehicle - PM08.
-### In our repositories you can find all of electronic and software projects done in the electric era
+## In our repositories you can find all of electronic and software projects done in the electric era
 
-### Articles:
+### PCB oriented articles:
 [Low Voltage BMS](https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf)
 
 [PCB stack-up motherboard](https://github.com/PUT-Motorsport/PUTM_EV_FRONT_BOX_2022/blob/main/FRONT_BOX-2022-Article.pdf)
@@ -15,6 +15,15 @@ numerous successes in international competitions. Currently we are working on ou
 
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
+
+### Follow us on:
+INSTAGRAM [@putmotorsport](https://www.instagram.com/putmotorsport/)
+
+FACEBOOK [PUT Motorsport](https://www.facebook.com/put.motorsport)
+
+YT [PUT Motorsport](https://www.youtube.com/user/PUTMotorsport)
+
+Our website: [putmotorsport.pl](https://putmotorsport.pl/)
 
 ## About competition:
 Formula Student is a line of international engineering competitions, organized
