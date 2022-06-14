@@ -13,15 +13,17 @@ numerous successes in international competitions. Currently we are working on ou
 
 [Inverter DC-link capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Article-Inverter%20dc%20link%20capacitors.pdf)
 
+[Accelerator Pedal Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/APPS_article.pdf)
+
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
 
 ### Follow us on:
-INSTAGRAM [@putmotorsport](https://www.instagram.com/putmotorsport/)
+INSTAGRAM: [@putmotorsport](https://www.instagram.com/putmotorsport/)
 
-FACEBOOK [PUT Motorsport](https://www.facebook.com/put.motorsport)
+FACEBOOK: [PUT Motorsport](https://www.facebook.com/put.motorsport)
 
-YT [PUT Motorsport](https://www.youtube.com/user/PUTMotorsport)
+YT: [PUT Motorsport](https://www.youtube.com/user/PUTMotorsport)
 
 Our website: [putmotorsport.pl](https://putmotorsport.pl/)
 
