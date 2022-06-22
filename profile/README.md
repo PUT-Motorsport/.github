@@ -11,7 +11,7 @@ numerous successes in international competitions. Currently we are working on ou
 
 [Brake light](https://github.com/PUT-Motorsport/.github/blob/main/brake-light-article.pdf)
 
-[Inverter DC-link capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Article-Inverter%20dc%20link%20capacitors.pdf)
+[Inverter DC-link capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Inverter%20dc%20link%20capacitors.pdf)
 
 [Accelerator Pedal Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/APPS_article.pdf)
 
