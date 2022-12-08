@@ -17,6 +17,8 @@ numerous successes in international competitions. Currently we are working on ou
 
 [Contactless Tire Temperature Sensor](https://github.com/PUT-Motorsport/.github/blob/main/article-TTSv2.0-1.pdf)
 
+[Traction Control](https://github.com/PUT-Motorsport/.github/blob/main/TRACTION_CONTROL_article.pdf)
+
 
 ![jlc_logo](https://user-images.githubusercontent.com/64833115/151148853-b9bbe78f-4eaf-4f40-9f04-2636bd68fd7f.png)
 
