@@ -2,9 +2,9 @@
 
 We are Formula Student racing team based at Poznan University of Technology.
 
-The team was founded in 2014. Since the beginning of our activity, we have constructed seven racing cars — five combustion and two electric ones — that have achieved numerous successes in international competitions.
+The team was founded in 2014. Since the beginning of our activity, we have constructed seven racing cars — five combustion and two electric ones — that have earned numerous achievements in international competitions.
 
-Currently, we are working on our third electric vehicle: PM08.
+Currently, we are working on two electric vehicles: PM08, being our first driverless design and PM09, featuring four-wheel powertrain.
 
 Follow us on:
 - [Instagram](https://www.instagram.com/putmotorsport)
@@ -20,7 +20,7 @@ Formula Student is an international engineering competition organized since 1979
 
 ## PCB-oriented Articles
 
-In our repositories, you can find various electronic and software projects done in the electric era.
+In our repositories, you can find various electronic hardware, firmware and software projects done in the electric era.
 
 Check out these write-ups:
 - [Low Voltage BMS](https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf)
