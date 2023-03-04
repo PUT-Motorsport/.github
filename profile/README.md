@@ -1,6 +1,6 @@
 # Welcome to PUT Motorsport
 
-We are Formula Student racing team based at Poznan University of Technology.
+We are a Formula Student racing team based at Poznan University of Technology.
 
 The team was founded in 2014. Since the beginning of our activity, we have constructed seven racing cars — five combustion and two electric ones — that have earned numerous achievements in international competitions.
 
