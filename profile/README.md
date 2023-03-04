@@ -4,7 +4,7 @@ We are a Formula Student racing team based at Poznan University of Technology.
 
 The team was founded in 2014. Since the beginning of our activity, we have constructed seven racing cars — five combustion and two electric ones — that have earned numerous achievements in international competitions.
 
-Currently, we are working on two electric vehicles: PM08, being our first driverless design and PM09, featuring four-wheel powertrain.
+Currently, we are working on two electric vehicles: PM08, being our first driverless design and PM09, featuring four-wheel drive powertrain.
 
 Follow us on:
 - [Instagram](https://www.instagram.com/putmotorsport)
