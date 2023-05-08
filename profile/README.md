@@ -24,11 +24,12 @@ In our repositories, you can find various electronic hardware, firmware and soft
 
 Check out these write-ups:
 - [Low Voltage BMS](https://github.com/PUT-Motorsport/.github/blob/main/LV_BMS-2022-article.pdf)
+- [Contactless Tire Temperature Sensor](https://github.com/PUT-Motorsport/.github/blob/main/article-TTSv2.0-1.pdf)
+- [Radio-based Telemetry](https://github.com/PUT-Motorsport/.github/blob/main/telemetry_article.pdf)
 - [PCB Stack-up Motherboard](https://github.com/PUT-Motorsport/PUTM_EV_FRONT_BOX_2022/blob/main/FRONT_BOX-2022-Article.pdf)
 - [Brake Light](https://github.com/PUT-Motorsport/.github/blob/main/brake-light-article.pdf)
 - [Inverter DC-link Capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Inverter%20dc%20link%20capacitors.pdf)
 - [Accelerator Pedal Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/APPS_article.pdf)
-- [Contactless Tire Temperature Sensor](https://github.com/PUT-Motorsport/.github/blob/main/article-TTSv2.0-1.pdf)
 - [Traction Control](https://github.com/PUT-Motorsport/.github/blob/main/TRACTION_CONTROL_article.pdf)
 
 ----
