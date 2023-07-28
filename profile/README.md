@@ -31,6 +31,7 @@ Check out these write-ups:
 - [Inverter DC-link Capacitors](https://github.com/PUT-Motorsport/.github/blob/main/Inverter%20dc%20link%20capacitors.pdf)
 - [Accelerator Pedal Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/APPS_article.pdf)
 - [Traction Control](https://github.com/PUT-Motorsport/.github/blob/main/TRACTION_CONTROL_article.pdf)
+- [Steering Wheel Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/SWPS_article.pdf)
 
 ----
 
