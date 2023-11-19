@@ -32,6 +32,7 @@ Check out these write-ups:
 - [Accelerator Pedal Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/APPS_article.pdf)
 - [Traction Control](https://github.com/PUT-Motorsport/.github/blob/main/TRACTION_CONTROL_article.pdf)
 - [Steering Wheel Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/SWPS_article.pdf)
+- [Suspension Tension Meter](https://github.com/PUT-Motorsport/.github/blob/main/Suspension-Tension-Meter_article.pdf)
 
 ----
 
