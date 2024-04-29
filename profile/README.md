@@ -34,6 +34,7 @@ Check out these write-ups:
 - [Steering Wheel Position Sensor](https://github.com/PUT-Motorsport/.github/blob/main/SWPS_article.pdf)
 - [Suspension Tension Meter](https://github.com/PUT-Motorsport/.github/blob/main/Suspension-Tension-Meter_article.pdf)
 - [Rear Box](https://github.com/PUT-Motorsport/.github/blob/main/Rear-Box_article.pdf)
+- [BSPD](https://github.com/PUT-Motorsport/.github/blob/main/BSPD_article.pdf)
 
 ----
 
